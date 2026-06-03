@@ -7,8 +7,8 @@ import os
 os.environ["KMP_DUPLICATE_LIB_OK"]="TRUE"
 
 # --- PAGE CONFIG ---
-st.set_page_config(page_title="HowlingWolfs Detection", page_icon="🐺", layout="wide")
-st.title("🐺 HowlingWolfs: Vehicle Detection & Tracking")
+st.set_page_config(page_title="HowlingWolfs Detection", page_icon="🧠", layout="wide")
+st.title("Codeminds255: Vehicle Detection & Tracking")
 
 
 # --- MODEL LOADING ---
